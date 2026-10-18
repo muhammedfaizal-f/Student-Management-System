@@ -86,7 +86,7 @@ public class StudentManagementSystem {
                     break;
 
                 case 2:
-                    viewstudent(students);
+                    viewstudent(students); 
                     break;
 
                 case 3:
